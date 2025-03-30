@@ -1,8 +1,16 @@
 # Glide (Control Voltage Low Pass Filter)
 
+## Schematic
+
+<img src="glide.jpg"></img>
+
 ## Simulation
 
 https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgzCAMB0l3BWcAOATNA7ANlQtBGAFjAE4TItCQFJrraEBTAWn3wCh8skxVlwSqEIUL9SQosOhkyNeIRkkE7AO7g+w5GI0JUtSOwDmw1FQS6TZrPqirhCLJfuOw122sIPwb8d-13fV1o+MTcDACcQEL8orSdafD0I2P5CUxTNflosZDg7aLSqXlT0gzVizIzRLPY9Eiq41HTq4ShYeHwo6EJsBwxIDHwHXXxIKhg4ToSjKObG9IcbMoEhIJXwEVsAJXWwTd9USihjwgZj-WhlDy9PRzwqW9tI++cQLF5XhKT2Z+QHrxeCFcx1G8AMxkBwMBYVsAEM3h8RPxBkIkSBRuikKwkKCwVJFGCiDJUtIZHI4Aoyeiwct3qjTgjUaU7HSnCj4nZ2YUQFzRE8eYlhHzsKk+V8DPgMFQRUL+MhESRHJ1yRdIHsMCAtowAM4AS21ABdYQA7ADGjDsuVoCkc8tRivcIDtwgdzrRyzdfOQR3dtUg9W9Dy9RwQgvG7Xgiij0fq6FQUowYDAkDwGC0yaQE0gUyiyjqTpDFkD1DDbRpMYr9WYcYTSZTyBGyAwhzL2eOuBmxfMQi7MOWJE2IloJGwQv8kRHjiHIEn1D0IJpM1numHo8W5x+M9H09GPoZ4pmu7MY2pIb77AADqegwkKMeiudqTT+4OuDPB-vLT63wOHm+PT6HzFoQ-7sPCwEMr+Y7UpiIDYk+eKEJcChpBQqBgKMpCEFOyEDlgWBsImoyShquJ5AA9uASBHNa-r8Jm0A5hwQA
+
+## Breadboard
+
+<img src="glide-filter.jpg"></img>
 
 ## References and Examples
 
