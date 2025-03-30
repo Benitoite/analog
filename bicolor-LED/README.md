@@ -1,5 +1,14 @@
 # Bi-color LED (three pin common cathode)
 
+## Schematic
+<img src="bicolor-led-schematic.jpg"></img>
+<hr>
+
+## Simulation
+
 https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACzICcpkORICkNIJNApgLRhgBQYOSV4OddJFT86xcNFTJk6ZEQEyiuHKiysw6DgCVw6EUREaRLGVDNE6pM3RgIOAd12G94UuidQHr90e9-IHABOKD5uIR5iQgGOfL5xLgEA5qIoyDgpyAjuNl5gYejo1AVFhShB4XnupvjpdCpwXtUI6Xw1ntxVWSBCImkiPd0gACZMAGYAhgCuADYALizTTEPg1lCwlFx4KKhFwigq3XvuIxMz84vLYtbrOI1dAzKCe9Hbu-rchyIBs91Y7sUhQSlK5sbDSWTySDSBAGI7QIRgLDELAEWiQIhEUjIVhWMBwYZjKZzDg-eQlahED4Aq62ZDEHikVAILCkKjSCAwKgs9B5IjoLEkQoQPF0E5E2YcZKPboWQGpWqeYLoP7dUptam6BqOdVq3XUF7Sh5CcC4TyOaWI9Jkk21crWy0MVrAkD1ALBC2mi0aMwaBrJSnpQp0APy6x2ql7EPsbKag3G6MMD4JpL7frNVOhnJCKxNdImf7p-XrOAQBDQHDSVCkJG0AxYOtrEs+yUgfPddNt6QKl6xFymXw96iVCphQftlpFVBfXIuXvOaeOXx8aV8ON1ahe7IcZBYSL6ecujdhxcCOXcOhd8CNA4PG-pzgAexNh-MkHI4BssA0SEEz+QHCAA
+<hr>
+
+## Breadboard
 
 <img src="bicolor-led-breadboard.jpeg"></img>
