@@ -11,4 +11,4 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoR
 
 ## Breadboard
 
-<img src="bicolor-led-breadboard.jpeg"></img>
+<img src="bicolor-led-breadboard.jpg"></img>
