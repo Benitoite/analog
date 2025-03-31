@@ -12,5 +12,3 @@
 
 <hr>
 
-<img src="decade-counter.GIF"></img>
-
