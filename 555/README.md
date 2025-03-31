@@ -2,7 +2,7 @@
 
 ## Schematic
 
-<img src="555.png"></img>
+<img src="555.png" height="600"></img>
 
 ## Simulation
 
