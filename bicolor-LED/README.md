@@ -1,7 +1,9 @@
 # Bi-color LED (three pin common cathode)
 
 ## Schematic
-<img src="bicolor-led-schematic.jpg"></img>
+
+<img src="bicolor-led-schematic.png"></img>
+
 <hr>
 
 ## Simulation
