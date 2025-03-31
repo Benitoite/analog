@@ -2,8 +2,12 @@
 
 ## Breadboard LED Sequence
 
-<img src="decade-counter.GIF"></img>
+<hr>
+
+<img src="decade-counter.jpg"></img>
 
 <hr>
 
-https://github.com/Benitoite/analog/blob/main/decade-counter/decade-counter.mp4
+
+<img src="decade-counter.GIF"></img>
+
