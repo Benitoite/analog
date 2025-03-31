@@ -6,4 +6,4 @@
 
 <hr>
 
-<img src="decade-counter.mp4"></img>
+https://github.com/Benitoite/analog/blob/main/decade-counter/decade-counter.mp4
