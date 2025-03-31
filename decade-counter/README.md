@@ -2,7 +2,7 @@
 
 # Schematic
 
-<img src="decade-counter-schematic.png"></img>
+<img src="decade-counter.png" height="750"></img>
 
 ## Breadboard LED Sequence
 
