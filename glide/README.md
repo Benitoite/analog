@@ -10,7 +10,7 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgzCAMB0l3BWcAOATNA7ANlQtBG
 
 ## Breadboard
 
-<img src="glide-filter.jpg"></img>
+<img src="glide-filter.jpg" height="600"></img>
 
 ## References and Examples
 
