@@ -2,7 +2,7 @@
 
 ## Schematic
 
-<img src="noise/noise.png"></img>
+<img src="noise.png"></img>
 
 ## Simulator (doesn't model noise)
 
