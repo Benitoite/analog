@@ -13,7 +13,7 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgzCAMB0l3AWAnC1b0DZwA4BM0B
 
 ## Schematic
 
-<img src="noise.png"></img>
+<img src="rectifier.png"></img>
 
 ## Simulator
 
