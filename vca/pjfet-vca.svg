@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="416 384 960 746" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g id="background"><rect x="416" y="384" width="960" height="746" fill="#FFFFFF" stroke="none"/></g>
+<g id="p-JFET">
+<line x1="928" y1="960" x2="928" y2="944" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="928" y1="944" x2="908" y2="944" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="928" y1="896" x2="928" y2="912" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="928" y1="912" x2="908" y2="912" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="832" y1="928" x2="906" y2="928" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polygon fill="#877777" fill-opacity="1" stroke="none" points="878,928 894,936 894,920 " />
+<polygon fill="#877777" fill-opacity="1" stroke="none" points="905,896 905,960 908,960 908,896 " />
+<ellipse cx="832" cy="928" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="p-JFET">
+<line x1="1088" y1="896" x2="1088" y2="912" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="912" x2="1108" y2="912" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="960" x2="1088" y2="944" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="944" x2="1108" y2="944" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1152" y1="928" x2="1110" y2="928" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polygon fill="#877777" fill-opacity="1" stroke="none" points="1134,928 1118,920 1118,936 " />
+<polygon fill="#877777" fill-opacity="1" stroke="none" points="1111,960 1111,896 1108,896 1108,960 " />
+<ellipse cx="1088" cy="896" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Ground">
+<line x1="928" y1="960" x2="928" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="938" y1="1024" x2="918" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="934" y1="1029" x2="922" y2="1029" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="930" y1="1034" x2="926" y2="1034" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Ground">
+<line x1="1152" y1="928" x2="1152" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1162" y1="1024" x2="1142" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1158" y1="1029" x2="1146" y2="1029" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1154" y1="1034" x2="1150" y2="1034" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Ground">
+<line x1="1088" y1="960" x2="1088" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1098" y1="1024" x2="1078" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1094" y1="1029" x2="1082" y2="1029" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1090" y1="1034" x2="1086" y2="1034" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Resistor">
+<line x1="896" y1="864" x2="784" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="752" y1="864" x2="640" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="784,864 781.3333,872 778.6667,864 776,856 773.3333,864 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="773.3333,864 770.6667,872 768,864 765.3333,856 762.6667,864 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="762.6667,864 760,872 757.3333,864 754.6667,856 752,864 " />
+<text x="755" y="851.8" font-family="sans-serif" font-size="16" fill="#000000">15k</text>
+</g>
+<g id="Resistor">
+<line x1="640" y1="768" x2="640" y2="800" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="640" y1="832" x2="640" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="640,800 648,802.6667 640,805.3333 632,808 640,810.6667 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="640,810.6667 648,813.3333 640,816 632,818.6667 640,821.3333 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="640,821.3333 648,824 640,826.6667 632,829.3333 640,832 " />
+<text x="655" y="820.8" font-family="sans-serif" font-size="16" fill="#000000">15k</text>
+</g>
+<g id="Op-amp with Rails">
+<line x1="1088" y1="704" x2="1104" y2="704" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="768" x2="1104" y2="768" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1152" y1="672" x2="1152" y2="704" stroke="#47B747" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1152" y1="800" x2="1152" y2="768" stroke="#C73737" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polygon fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" points="1104,672 1104,800 1200,736 " />
+<text x="1118" y="708.8" font-family="sans-serif" font-size="16" fill="#000000">-</text>
+<text x="1114" y="771.8" font-family="sans-serif" font-size="16" fill="#000000">+</text>
+<line x1="1200" y1="736" x2="1216" y2="736" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polygon stroke="#000000" stroke-opacity="1" stroke-width="3" stroke-linejoin="round" fill="none" points="1104,672 1104,800 1200,736 " />
+<ellipse cx="1088" cy="768" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+<ellipse cx="1216" cy="736" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="DC Rail">
+<line x1="1142" y1="657" x2="1162" y2="657" stroke="#47B747" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1152" y1="672" x2="1152" y2="657" stroke="#47B747" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1138" y="652.8" font-family="sans-serif" font-size="16" fill="#000000">+5V</text>
+</g>
+<g id="DC Rail">
+<line x1="1162" y1="815" x2="1142" y2="815" stroke="#C73737" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1152" y1="800" x2="1152" y2="815" stroke="#C73737" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1140" y="827.8" font-family="sans-serif" font-size="16" fill="#000000">-5V</text>
+</g>
+<g id="Resistor">
+<line x1="992" y1="896" x2="992" y2="912" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="992" y1="944" x2="992" y2="960" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="992,912 1000,914.6667 992,917.3333 984,920 992,922.6667 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="992,922.6667 1000,925.3333 992,928 984,930.6667 992,933.3333 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="992,933.3333 1000,936 992,938.6667 984,941.3333 992,944 " />
+<text x="1007" y="932.8" font-family="sans-serif" font-size="16" fill="#000000">15k</text>
+</g>
+<g id="Wire">
+<line x1="1074" y1="896" x2="1006" y2="896" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="896" x2="992" y2="896" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="1088" cy="896" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Ground">
+<line x1="992" y1="960" x2="992" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1002" y1="1024" x2="982" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="998" y1="1029" x2="986" y2="1029" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="994" y1="1034" x2="990" y2="1034" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Resistor">
+<line x1="928" y1="608" x2="928" y2="640" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="928" y1="672" x2="928" y2="704" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="928,640 936,642.6667 928,645.3333 920,648 928,650.6667 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="928,650.6667 936,653.3333 928,656 920,658.6667 928,661.3333 " />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="928,661.3333 936,664 928,666.6667 920,669.3333 928,672 " />
+<text x="943" y="660.8" font-family="sans-serif" font-size="16" fill="#000000">15k</text>
+<ellipse cx="928" cy="704" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="1230" y1="736" x2="1298" y2="736" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="1216" y1="736" x2="1312" y2="736" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="1216" cy="736" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Resistor">
+<line x1="736" y1="928" x2="752" y2="928" stroke="#07F707" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="784" y1="928" x2="800" y2="928" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polyline stroke="#07F707" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="752,928 754.6667,920 757.3333,928 760,936 762.6667,928 " />
+<polyline stroke="#37C737" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="762.6667,928 765.3333,920 768,928 770.6667,936 773.3333,928 " />
+<polyline stroke="#5F9F5F" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="773.3333,928 776,920 778.6667,928 781.3333,936 784,928 " />
+<text x="753" y="915.8" font-family="sans-serif" font-size="16" fill="#000000">1.2k</text>
+</g>
+<g id="Capacitor">
+<line x1="832" y1="928" x2="832" y2="956" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="844" y1="956" x2="820" y2="956" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="832" y1="992" x2="832" y2="964" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<path d="M 843.3137 968.6863 A 16 16 0 0 0 820.6863 968.6863" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" fill-opacity="0" />
+<ellipse cx="832" cy="928" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+<text x="850" y="964.8" font-family="sans-serif" font-size="16" fill="#000000">3.3uF</text>
+</g>
+<g id="Ground">
+<line x1="832" y1="992" x2="832" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="842" y1="1024" x2="822" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="838" y1="1029" x2="826" y2="1029" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="834" y1="1034" x2="830" y2="1034" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="928" y1="891" x2="928" y2="869" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="928" y1="896" x2="928" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="928" cy="864" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="923" y1="864" x2="901" y2="864" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="928" y1="864" x2="896" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="928" cy="864" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="971" y1="608" x2="1173" y2="608" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="928" y1="608" x2="1216" y2="608" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="1216" y1="627" x2="1216" y2="717" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="1216" y1="608" x2="1216" y2="736" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="1216" cy="736" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="928" y1="728" x2="928" y2="840" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="928" y1="704" x2="928" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="928" cy="704" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+<ellipse cx="928" cy="864" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="952" y1="704" x2="1064" y2="704" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="928" y1="704" x2="1088" y2="704" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="928" cy="704" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Speaker">
+<line x1="1312" y1="736" x2="1312" y2="747" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1312" y1="789" x2="1312" y2="800" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<polygon fill="#877777" fill-opacity="1" stroke="none" points="1296,760 1296,776 1312,776 1323,785 1323,751 1312,760 " />
+</g>
+<g id="Ground">
+<line x1="1312" y1="800" x2="1312" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1322" y1="864" x2="1302" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1318" y1="869" x2="1306" y2="869" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="1314" y1="874" x2="1310" y2="874" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Sweep (linear)">
+<ellipse cx="576" cy="864" rx="17" ry="17" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<line x1="640" y1="864" x2="593" y2="864" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<ellipse cx="576" cy="864" rx="17" ry="17" stroke="#877777" stroke-opacity="1" stroke-width="3" fill="none" />
+<polyline stroke="#877777" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="566,868.0319 567,870.8787 568,871.5327 569,869.7853 570,866.1936 571,861.9026 572,858.2803 573,856.4813 574,857.0792 575,859.8835 576,864 577,868.1165 578,870.9208 579,871.5187 580,869.7197 581,866.0974 582,861.8064 583,858.2147 584,856.4673 585,857.1213 586,859.9681 " />
+<text x="546" y="834.8" font-family="sans-serif" font-size="16" fill="#000000">59.05Hz</text>
+</g>
+<g id="Square Wave Source">
+<line x1="576" y1="992" x2="576" y2="977" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="576" y1="943" x2="576" y2="928" stroke="#07F707" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<ellipse cx="576" cy="960" rx="17" ry="17" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<ellipse cx="576" cy="960" rx="17" ry="17" stroke="#000000" stroke-opacity="1" stroke-width="3" fill="none" />
+<polyline stroke="#000000" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="568,960 568,952 571,952 571,968 571,968 584,968 584,960 " />
+<text x="601" y="964.8" font-family="sans-serif" font-size="16" fill="#000000">6.1Hz</text>
+</g>
+<g id="Ground">
+<line x1="576" y1="992" x2="576" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="586" y1="1024" x2="566" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="582" y1="1029" x2="570" y2="1029" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="578" y1="1034" x2="574" y2="1034" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="712" y1="928" x2="600" y2="928" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="736" y1="928" x2="576" y2="928" stroke="#07F707" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="805" y1="928" x2="827" y2="928" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="800" y1="928" x2="832" y2="928" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="832" cy="928" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="In">
+<rect x="472" y="824" width="33" height="56" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<text x="488" y="848" font-family="sans-serif" font-size="20" fill="#000000"></text>
+<text x="480" y="872" font-family="sans-serif" font-size="20" fill="#000000">In</text>
+</g>
+<g id="CV in">
+<rect x="472" y="920" width="64" height="56" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<text x="504" y="944" font-family="sans-serif" font-size="20" fill="#000000"></text>
+<text x="480" y="968" font-family="sans-serif" font-size="20" fill="#000000">CV in</text>
+</g>
+<g id="Wire">
+<line x1="1021" y1="768" x2="707" y2="768" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="768" x2="640" y2="768" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="1088" cy="768" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="1088" y1="877" x2="1088" y2="787" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="1088" y1="896" x2="1088" y2="768" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="1088" cy="896" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+<ellipse cx="1088" cy="768" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="1232" y1="1120" x2="560" y2="1120" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="1376" y1="1120" x2="416" y2="1120" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<rect x="1372" y="1116" width="8" height="8" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="416" cy="1120" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+</g>
+<g id="pJFET VCA">
+<rect x="600" y="376" width="552" height="128" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<text x="608" y="464" font-family="sans-serif" font-size="100" fill="#000000">pJFET VCA</text>
+</g>
+<g id="(Voltage-Controlled Amplifier)">
+<rect x="568" y="504" width="625" height="59" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<text x="576" y="546.4" font-family="sans-serif" font-size="43" fill="#000000">(Voltage-Controlled Amplifier)</text>
+</g>
+</svg>
